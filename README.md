@@ -1,3 +1,6 @@
+## Phone Book service
+React, Node.js를 이용한 전화번호부 관리 서비스입니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
